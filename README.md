@@ -52,18 +52,6 @@ This repo is published as a **free OSS core** (MIT).
 
 ---
 
-## 🖼️ Demo and screenshots
-> Add your visuals before launch for better conversion.
-
-- Demo GIF: `assets/demo.gif`
-- Dashboard screenshot: `assets/dashboard-overview.png`
-- Logs screenshot: `assets/dashboard-logs.png`
-
-Example markdown once files are added:
-```md
-![Demo](assets/demo.gif)
-![Overview](assets/dashboard-overview.png)
-```
 
 ## 💡 Use cases
 - Optimize customer support prompts and track latency/cost changes
